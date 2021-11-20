@@ -1,0 +1,38 @@
+{
+    "name": "VC-Streamer Userbot",
+    "description": "An Telegram Bot To Stream Videos and Audios in Voice Chat",
+    "stack": "container",
+    "keywords": [
+      "telegram",
+      "voicechat",
+      "bot"
+    ],
+    "env": {
+      "API_ID": {
+        "description": "Your API ID from https://my.telegram.org or @ScrapperRobot",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "Your API HASH from https://my.teleram.org or @ScrapperRobot",
+        "required": true
+      },
+      "SESSION": {
+        "description": "Get Pyrogram string session from @SessionStringRobot",
+        "required": true
+      },
+      "ADMINS": {
+        "description": "Add your telegram ID. (Then others can't use your bot. Seperate by spaces)",
+        "required": true
+      },
+      "CHAT_ID": {
+        "description": "ID of your Channel or Group where the bot will works or stream videos",
+        "required": true
+      }
+    },
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    }
+  }
