@@ -14,11 +14,11 @@ _🎯 Follow me and star this repo for more telegram bots._ 🎯
 ## 🌐 Deployment
 - Deploy to **Heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/VC-Streamer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dacchusena/Videostreamer)
 
 - Deploy to **Railway**
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/PredatorHackerzZ/VC-Streamer) 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Dacchusena/Videostreamer) 
 
 ### 🏷 Deployment Guide
 
